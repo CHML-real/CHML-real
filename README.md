@@ -27,5 +27,5 @@
 
 ## 🌐 Links
 
-- 📝 [Kakao Brunch](https://brunch.co.kr) — IT & AI writing
+- 📝 [Kakao Brunch](https://brunch.co.kr/@aichaemun) — IT & AI writing
 - 🎨 [GoingProdo]() — Media art & philosophy
