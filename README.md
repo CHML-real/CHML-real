@@ -27,6 +27,15 @@
 
 ---
 
+## 🔬 Research Projects
+
+| Project | Role |
+|---------|------|
+| [paradigm-shifts-payoff-restructuring](https://github.com/CHML-real/paradigm-shifts-payoff-restructuring) | Lead researcher |
+| [neural-noise-cognitive-novelty](https://github.com/lajjadred/neural-noise-cognitive-novelty) | Algorithm development |
+
+---
+
 ## 🌐 Links
 
 - 📝 [Kakao Brunch](https://brunch.co.kr/@aichaemun) — IT & AI writing
