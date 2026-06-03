@@ -7,6 +7,7 @@
 ## 🔧 What I build
 
 - 📦 **[temporal-belief-graph](https://github.com/CHML-real/temporal-belief-graph)** — Probabilistic temporal belief graph for uncertain narrative timelines. [`PyPI`](https://pypi.org/project/temporal-belief-graph/)
+- 📦 **[evidence-confidence-propagation](https://github.com/CHML-real/evidence-confidence-propagation)** — Evidence-weighted confidence propagation using residue theory and ladder operators. [`PyPI`](https://pypi.org/project/evidence-confidence-propagation/)
 
 ---
 
@@ -22,6 +23,7 @@
 | Package | Description | PyPI |
 |---------|-------------|------|
 | [temporal-belief-graph](https://github.com/CHML-real/temporal-belief-graph) | Probabilistic temporal belief graph | [![PyPI](https://badge.fury.io/py/temporal-belief-graph.svg)](https://pypi.org/project/temporal-belief-graph/) |
+| [evidence-confidence-propagation](https://github.com/CHML-real/evidence-confidence-propagation) | Evidence-weighted confidence propagation | [![PyPI](https://badge.fury.io/py/evidence-confidence-propagation.svg)](https://pypi.org/project/evidence-confidence-propagation/) |
 
 ---
 
