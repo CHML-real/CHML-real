@@ -7,10 +7,7 @@
 ## 🔧 What I build
 
 - 📦 **[temporal-belief-graph](https://github.com/CHML-real/temporal-belief-graph)** — Probabilistic temporal belief graph for uncertain narrative timelines. [`PyPI`](https://pypi.org/project/temporal-belief-graph/)
-- 🤖 AI prompting curriculum and lectures for Hackers Campus and Gyeonggi Province
-- ⚛️ Nuclear decommissioning equipment R&D at EGUN GCC Co., Ltd.
-- 🎨 Media art under the name **GoingProdo / 핑크레몬**
-
+- 
 ---
 
 ## 🧠 Research
@@ -31,4 +28,4 @@
 ## 🌐 Links
 
 - 📝 [Kakao Brunch](https://brunch.co.kr) — IT & AI writing
-- 🎨 [GoingProdo](https://github.com/lajjadred) — Media art & philosophy
+- 🎨 [GoingProdo]() — Media art & philosophy
