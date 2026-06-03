@@ -7,7 +7,7 @@
 ## 🔧 What I build
 
 - 📦 **[temporal-belief-graph](https://github.com/CHML-real/temporal-belief-graph)** — Probabilistic temporal belief graph for uncertain narrative timelines. [`PyPI`](https://pypi.org/project/temporal-belief-graph/)
-- 
+
 ---
 
 ## 🧠 Research
