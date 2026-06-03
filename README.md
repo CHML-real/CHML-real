@@ -28,4 +28,4 @@
 ## 🌐 Links
 
 - 📝 [Kakao Brunch](https://brunch.co.kr/@aichaemun) — IT & AI writing
-- 🎨 [GoingProdo]() — Media art & philosophy
+- 🎨 [GoingProdo](https://goingprodo.netlify.app/) — Media art & philosophy
